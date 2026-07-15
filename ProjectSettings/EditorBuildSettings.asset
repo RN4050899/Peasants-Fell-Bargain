@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: c2e7919fe577ad3479ddba14bb002cad
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: ccc535a83da0d784b84d33ba101a5d09
+  - enabled: 1
+    path: Assets/Scenes/Character Creation Scene/Character Creation.unity
+    guid: e39f190669f42f048b6a219281665fb9
+  - enabled: 1
+    path: Assets/Scenes/PostCharacterScene.unity
+    guid: 6dc4f24746ee6444c90c626ecdaa1dff
+  - enabled: 1
+    path: Assets/Scenes/carriageDialogue.unity
+    guid: 838904c2b9913d14fae10748ae8b399f
+  - enabled: 1
+    path: Assets/Scenes/Bargain/BargainScene.unity
+    guid: d068b88d6001d374b8f5cc78b5e42235
+  - enabled: 1
+    path: Assets/Scenes/Bargain/No_Bargain.unity
+    guid: 0c0b8c08330df044d92b38bc87de6f89
+  - enabled: 1
+    path: Assets/Scenes/Bargain/Yes_Bargain.unity
+    guid: 0ab79f68a5cd7494d9934d2289b515fe
+  - enabled: 1
+    path: Assets/Scenes/PostBargain.unity
+    guid: d56e26efea8bc84438e9f7aab521d68c
+  - enabled: 1
+    path: Assets/Scenes/You_Died.unity
+    guid: 3e2f4c6e6cbed934f83e3225f17748fe
+  - enabled: 1
+    path: Assets/Scenes/Combat/Combat.unity
+    guid: dc555b801fe0b404abc5720c38c46269
+  - enabled: 1
+    path: Assets/Scenes/BeatTheSoldiers.unity
+    guid: 8a5b9fbc124303c47b4cd2eebdcbab3d
+  - enabled: 1
+    path: Assets/Scenes/Investigation/Investigate Soldiers.unity
+    guid: 1e98138fe2af755479b8946267795354
+  - enabled: 1
+    path: Assets/Scenes/Investigation/No_Investigate.unity
+    guid: 00fbc8adc32621c48bc0050c7ccb535e
+  - enabled: 1
+    path: Assets/Scenes/Investigation/Yes_Investigate.unity
+    guid: 98761a7710ba48244b456dfebc176b34
+  - enabled: 1
+    path: Assets/Scenes/Bargain/WhatBargain.unity
+    guid: 8333963341289cc46b54b9fb3539ac91
+  - enabled: 1
+    path: Assets/Scenes/Map/Courtyard.unity
+    guid: ebde13e98e22f724d8a1888684305e51
+  - enabled: 1
+    path: Assets/Scenes/Map/Gatehouse.unity
+    guid: e3d7ac450e1077d47aba6c267b987f1b
+  - enabled: 1
+    path: Assets/Scenes/Map/Stables.unity
+    guid: 0c0180bddccf83d408234e5c1c491505
+  - enabled: 1
+    path: Assets/Scenes/Map/Path.unity
+    guid: 574755d58aa14b5418838989f6d2ceba
+  - enabled: 1
+    path: Assets/Scenes/Map/Barracks.unity
+    guid: 860166b3197d40f408cd30a6d755c4ee
+  - enabled: 1
+    path: Assets/Scenes/Map/Stables Combat.unity
+    guid: addcc9da37846134d81d2d9a323e4f24
+  - enabled: 1
+    path: Assets/Scenes/Map/Combat_Victory.unity
+    guid: e04ab0819ba03b1478da5b6205376652
+  - enabled: 1
+    path: Assets/Scenes/Map/AvoidTheBody.unity
+    guid: 0f99fbd3cf68df545b7cca33d9266114
+  - enabled: 1
+    path: Assets/Scenes/Map/HelpTheBody.unity
+    guid: 7bba11e364d8e3a459182a79d775e8c4
+  - enabled: 1
+    path: Assets/Scenes/Map/Investigatehouse.unity
+    guid: 19f9433ecce014d41bed8c9778879ded
+  - enabled: 1
+    path: Assets/Scenes/Map/BarracksCombat.unity
+    guid: 851183ad1e62ce642a5cf64c7894bf39
+  - enabled: 1
+    path: Assets/Scenes/Map/BarracksWin.unity
+    guid: cef7986ea2ca16348b3a1af72d93a5b7
+  - enabled: 1
+    path: Assets/Scenes/Map/End.unity
+    guid: cd25ff3f07f4a704a8b49a9824418d66
+  m_configObjects: {}
